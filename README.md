@@ -1,2 +1,2 @@
-# FamilyPedia
+# Emojipedia
 Created with CodeSandbox
